@@ -1,0 +1,41 @@
+/* using color palette - https: //colorhunt.co/palette/2763 */
+/* color palette - https://colorhunt.co/palette/163836 */
+body {
+  background-color: #eeeeee;
+  color: #222831;
+  padding-left: 20px;
+}
+
+h1 {
+  color: #393e46;
+}
+
+h3 {
+  color: #00adb5;
+}
+
+table {
+  table-layout: fixed;
+  width: 80%;
+  /* border-collapse: collapse; */
+}
+
+td {
+  vertical-align: middle;
+  border-top: 1px solid #ddd;
+  padding: 10px;
+}
+
+.noborder {
+  border: none;
+}
+
+hr {
+  /* border-top: 1px solid #00adb5; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #a3f7bf;
+  border-width: 5px;
+  width: 5%;
+  /* height: give height to the hr.. default is 0 */
+}

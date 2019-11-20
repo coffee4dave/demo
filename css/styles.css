@@ -1,0 +1,46 @@
+/* palette: https://colorhunt.co/palette/2763 */
+/* palette: https://colorhunt.co/palette/163836 */
+body {
+  background-color: #222831;
+}
+
+.container {
+  background-color: #393e46;
+  color: #eeeeee;
+  width: 75%;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+table {
+  table-layout: fixed;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+td {
+  vertical-align: middle;
+  border-top: 1px solid #ddd;
+  padding: 10px;
+}
+
+td .noborder {
+  border: none;
+}
+
+hr {
+  /* border-top: 1px solid #00adb5; */
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #00adb5;
+  border-width: 5px;
+  width: 5%;
+}
+
+a {
+  color: #00adb5;
+}
+
+a:visited {
+  color: #a3f7bf;
+}

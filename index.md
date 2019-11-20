@@ -46,10 +46,25 @@
         </tr>
       </thead>
       <tbody>
+        <!-- ================================================================= -->
         <tr>
-          <td><a href="./html/profile/index.html">Profile Site (HTML only)</a></td>
-          <td><a href="./html/inputs/index.html">Form Inputs (HTML only)</a></td>
-          <td><a href="./html/HTMLCHALLENGE1/index.html">HTML Challenge 1 (HTML only)</a></td>
+          <td>
+            <h2>HTML Only</h2>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="./onlyHTML/profile/index.html">Profile Site (HTML only)</a></td>
+          <td><a href="./onlyHTML/inputs/index.html">Form Inputs (HTML only)</a></td>
+          <td><a href="./onlyHTML/HTMLCHALLENGE1/index.html">HTML Challenge 1 (HTML only)</a></td>
+        </tr>
+        <!-- ================================================================= -->
+        <tr>
+          <td>
+            <h2>HTML and CSS</h2>
+          </td>
+        </tr>
+        <tr>
+          <td><a href="./withCSS/profile/index.html">Profile Site (HTML+CSS)</a></td>
         </tr>
       </tbody>
     </table>

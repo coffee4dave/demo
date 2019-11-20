@@ -1,0 +1,59 @@
+html, body {
+  margin: 0;
+  max-width: 100;
+  max-height: 100%;
+  background-color: lightblue;
+  padding: 0;
+  ;
+}
+
+.links {
+  list-style-type: none;
+  display: flex;
+  align-items: flex-start;
+}
+
+.links li {
+  line-height: 2em;
+  background-color: grey;
+  width: 20%;
+  margin: 5px;
+  border-radius: 2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+
+.links li a {
+  color: white;
+  display: block;
+}
+
+.questions {
+  list-style-position: inside;
+}
+
+.questions li {
+  display: list-item;
+  line-height: 2em;
+  background-color: grey;
+  width: 20%;
+  margin: 5px;
+  border-radius: 2px;
+  text-align: center;
+  font-size: 1.5em;
+  font-weight: bolder;
+  color: white;
+}
+
+.container {
+  margin: 10px auto;
+  width: 80%;
+  background-color: lightgray;
+  padding: 10px;
+  box-shadow: 5px 5px 5px gray;
+}
+
+hr {
+  size: 3;
+}
