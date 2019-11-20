@@ -1,2 +1,2 @@
-git remote add origin https://github.com/invisikami/demo.git
-git push -u origin master
+for remote setup on github, first time --- git remote add origin https://github.com/invisikami/demo.git
+after --- git push -u origin master
